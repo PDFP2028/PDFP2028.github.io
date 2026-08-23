@@ -1,6 +1,8 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
- <o:MainFile HRef="../Basic_Philosophy_Syllabus.htm"/>
+ <o:MainFile
+  HRef="../Introduction%20to%20Philosopy%20Syllabus%20Fall%202026.htm"/>
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
+ <o:File HRef="header.htm"/>
  <o:File HRef="filelist.xml"/>
 </xml>
