@@ -1,7 +1,6 @@
 ---
-layout: index
-title: Year 4 Study Site
-nav_exclude: false
+layout: home
+title: Year 4 Page
 ---
 
 # Year 4 Study Site
