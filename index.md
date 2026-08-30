@@ -3,8 +3,6 @@ layout: home
 title: Year 4 Page
 ---
 
-# Year 4 Study Site
-
 | Moral Theology | Intro to Western Philosophy | Homiletics |
 | :---: | :---: | :---:|
 | [Moral Theology Syllabus](./Moral_Theo/Moral_Theo_Syllabus.htm) | [Intro to Western Philosophy Syllabus](./Basic_Philo/philosophy.html) | [Homiletics Study Section](./Homiletics/index.html) |
