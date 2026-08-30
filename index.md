@@ -1,3 +1,9 @@
+---
+layout: index
+title: Year 4 Study Site
+nav_exclude: false
+---
+
 # Year 4 Study Site
 
 | Moral Theology | Intro to Western Philosophy | Homiletics |

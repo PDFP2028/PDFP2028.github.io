@@ -1,3 +1,9 @@
+---
+layout: page
+title: Philosopy Syllabus
+nav_exclude: true
+---
+
 # Introduction to Western Philosophy for Permanent Deacon Candidates
 
 ## Fall 2026

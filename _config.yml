@@ -1,12 +1,13 @@
 # Site Settings
 title: PDFP 2028 Study Site
 description: A study site for PDFP2028.
-url: ""
-baseurl: ""
 
 # Build Settings
 theme: minima
 plugins:
+
+header_pages:
+  - index.md
 
 # Custom Global Variables
 author_name: Paul Lewis
