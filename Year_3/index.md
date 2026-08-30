@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Final Study Page
+title: Year 3 Page
 ---
 
 # Fundamental Theology Study Site
@@ -26,3 +26,5 @@ title: Final Study Page
 | | [Eschatology](Eschatology.htm) | |
 | | [Mariology](Mariology.htm) | |
 | | [Chalcedon](Chalcedon.htm) | |
+
+[Return to Main Page](../index.md)
