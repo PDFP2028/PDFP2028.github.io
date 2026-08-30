@@ -1,3 +1,14 @@
+# Site Settings
 title: Year Three Fundamental Theology
-description: Study site for PDFP2028.
+description: A study site for PDFP2028.
+url: "https://pdfp2028.github.io"
+baseurl: ""
+
+# Build Settings
 theme: minima
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+
+# Custom Global Variables
+author_name: Paul Lewis
