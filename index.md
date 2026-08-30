@@ -1,8 +1,3 @@
----
-layout: home
-title: Year 4 Page
----
-
 # Year 4 Study Site
 
 | Moral Theology | Intro to Western Philosophy | Homiletics |
