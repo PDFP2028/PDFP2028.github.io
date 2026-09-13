@@ -4,9 +4,7 @@
 
 Main texts:
 
- *[Morality: The Catholic
-View](https://www.amazon.com/dp/1587315157?lv=shuf&channelId=500&plpRedirect=mhFallback)*
-by Servais Pinckaers, OP 
+[Morality: The Catholic View](https://www.amazon.com/dp/1587315157?lv=shuf&channelId=500&plpRedirect=mhFallback) by Servais Pinckaers, OP 
 
 [Introducing Moral Theology: True Happiness and the Virtues](https://www.amazon.com/dp/1587432234?lv=shuf&channelId=500&plpRedirect=mhFallback) by William C. Mattison III
 
@@ -43,6 +41,8 @@ C. Natural Law as Evidence that Human Nature is Fundamentally Good (despite sin)
 D. Civil Law: Should Reflect Natural Law
 
 **Topic 2:** Virtue and Happiness, Intentions, Good Acts, and Human Freedom
+
+*[Class 2 Transcript](./Theology/transcript_class_2.md)* by Paul Lewis
 
 **Readings:**<br>
 Mattison ch. 2, 3<br>
