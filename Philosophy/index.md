@@ -14,8 +14,8 @@
 ## Sept 12 -- Socrates, Plato, and Aristotle
 
 **Reading:**<br>
-Plato's Phaedo (<https://classics.mit.edu/Plato/phaedo.html>)<br>
-Study Guide (<https://iep.utm.edu/phaedo/> )
+[Plato's Phaedo] (https://classics.mit.edu/Plato/phaedo.html)<br>
+[Study Guide] (https://iep.utm.edu/phaedo/ )
 
 The *Basic Works of Aristotle* (de Anima, Bk II; Metaphysics Bks I-II)
 
@@ -27,6 +27,18 @@ pgs 53-73 Proof of the Existence of God.<br>
 pgs 243-266 Antropology.<br>
 pgs 349-400 Man's End and Happiness.<br>
 pgs 465-467 Theological Virtues.
+
+Summa Theologica, III. [Q. 75, On Transubstantiation](https://www.newadvent.org/summa/4075.htm)
+
+**Additional Resources**<br>
+[Eucharist, Christopher Anadale](https://www.youtube.com/watch?v=LhbbRMcoZoo&list=PLPCGA67J8M2JbqitOY3Ez4yT0x-d8ip0W&index=11)
+[Contemplation, Christopher Anadale](https://www.youtube.com/watch?v=TwTdYRH74c8&list=PLPCGA67J8M2JbqitOY3Ez4yT0x-d8ip0W&index=5)
+
+[Playlist of Videos on Aquinas’ Five Proofs, Thomistic Institute](https://www.youtube.com/playlist?list=PL_kd4Kgq4tP8G-zdbspchmuv8zjCXtjWw)  
+[Playlist of entire A History of Philosophy Course from Prof. Holmes](https://www.youtube.com/playlist?list=PL9GwT4_YRZdBf9nIUHs0zjrnUVl-KBNSM)
+
+[3 Meanings of the Eucharist](https://www.youtube.com/watch?v=LhbbRMcoZoo&authuser=0)
+[5 Reasons is Contemplation](https://www.youtube.com/watch?v=TwTdYRH74c8&authuser=0)
 
 ## Nov 7 -- Early, Modern, and Post-Modern Philosophy
 
