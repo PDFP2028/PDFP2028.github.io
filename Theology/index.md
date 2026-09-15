@@ -42,11 +42,16 @@ D. Civil Law: Should Reflect Natural Law
 
 **Topic 2:** Virtue and Happiness, Intentions, Good Acts, and Human Freedom
 
+**Additional Materials**<br>
 *[Class 2 Transcript](./Theology/transcript_class_2.md)* by Paul Lewis
+
 
 **Readings:**<br>
 Mattison ch. 2, 3<br>
 Pinckaers ch. 6, 8
+Book of Amos, Ch 1-3
+Book of Baruch, Ch 3-5
+[Didache. The Teaching of the Twelve Apostles (translation Roberts-Donaldson).](https://www.earlychristianwritings.com/text/didache-roberts.html)
 
 ## Week 3: October 3, 2026
 

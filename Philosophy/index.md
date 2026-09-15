@@ -19,6 +19,9 @@
 
 The *Basic Works of Aristotle* (de Anima, Bk II; Metaphysics Bks I-II)
 
+**Additional Resources**
+[Aristotle’s Theory of Soul from Dr. Christoper Anadale:](https://youtu.be/1HdfQmBTYFk?si=Oqjdd0yqYVqyM-Vg)
+
 ## Oct 3 -- The Middle Ages and Aquinas
 
 **Reading:**<br>
