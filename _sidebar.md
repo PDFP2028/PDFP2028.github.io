@@ -1,8 +1,9 @@
 <!-- _sidebar.md -->
 
 * [Home](README.md)
+* [Pastoral Care Class](Pastoral_Care/index.md 'Pastoral Care Syllabus')
 * [Philosophy](Philosophy/index.md)
-* [Moral Theology](Theology/index.md)
+* [Moral Theology](moral_theo/index.md)
 * [Homiletics](Homiletics/index.md)
 * [Canon Law](Canon_Law/index.md)
 * [Human Formation](Human_Form/index.md)

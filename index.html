@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>PDFP 2028 Study Site</title>
+  <!-- Points directly to your local file now -->
+  <link rel="stylesheet" href="vue.css">
+  <link rel="icon" href="data:,">
+</head>
+<body>
+  <div id="app">Loading...</div>
+  <script>
+    window.$docsify = {
+      name: 'Study Site Index',
+      loadSidebar: true,
+	  alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      //routerMode: 'hash'
+	  subMaxLevel: 2
+    }
+  </script>
+
+  <!-- Points directly to your local file now -->
+  <script src="docsify.min.js"></script>
+  <script src="search.min.js"></script>
+</body>
+</html>
