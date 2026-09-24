@@ -18,12 +18,12 @@
 ## Sep. 23
 
 **Class Slides**<br>
-[Steps for Liturgy of Word with a Deacon Involved. (From the GIRM)](./homiletics/LitofWord.md)<br>
+[Steps for Liturgy of Word with a Deacon Involved. (From the GIRM)](LitofWord.md)<br>
 
 ## Additional Resources:
 [CES Preaching Dashboard Login](https://cpiadmin.azurewebsites.net/Login)<br>
 * [User Manual](https://cpiadmin.azurewebsites.net/Home/DisplayPdf)<br>
-* [CPI Training Script](./homiletics/Training_Script.md)<br>
+* [CPI Training Script](Training_Script.md)<br>
 
 ### LINKS TO CES CPI CANDIDATE SURVEYS
 | LName| FName | Email | Survey Link | | LName| FName | Email | Survey Link |
