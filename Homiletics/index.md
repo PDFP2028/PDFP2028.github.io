@@ -4,26 +4,26 @@
 
 **Class Slides**<br>
 [Deacon CJ's Presentation](./images/C1D1.md)<br>
-[Deacon Dan's Presentation](./images/C1D2.md)
+[Deacon Dan's Presentation](./images/C1D2.md)<br>
 
-**Readings**
-[ Chapters I-IV from Fulfilled in Your Hearing](https://www.usccb.org](mailto:)/upload/fulfilled-in-your-hearing-homily-Sunday-assembly.pdf)
+**Readings**<br>
+[ Chapters I-IV from Fulfilled in Your Hearing](https://www.usccb.org](mailto:)/upload/fulfilled-in-your-hearing-homily-Sunday-assembly.pdf)<br>
 
 ## Sep. 9
 
 **Class Slides**<br>
 [Deacon CJ's Presentation](./images/C2D1.md)<br>
-[Deacon Dan's Presentation](./images/C2D2.md)
+[Deacon Dan's Presentation](./images/C2D2.md)<br>
 
 ## Sep. 23
 
-**Class Slides**
-[Steps for Liturgy of Word with a Deacon Involved. (From the GIRM) ](LitofWord.md)
+**Class Slides**<br>
+[Steps for Liturgy of Word with a Deacon Involved. (From the GIRM) ](LitofWord.md)<br>
 
 ## Additional Resources:
-[CES Preaching Dashboard Login](https://cpiadmin.azurewebsites.net/Login)
-* [User Manual](https://cpiadmin.azurewebsites.net/Home/DisplayPdf)
-* [CPI Training Script](./homiletics/Training_Script.md)
+[CES Preaching Dashboard Login](https://cpiadmin.azurewebsites.net/Login)<br>
+* [User Manual](https://cpiadmin.azurewebsites.net/Home/DisplayPdf)<br>
+* [CPI Training Script](./homiletics/Training_Script.md)<br>
 
 ### LINKS TO CES CPI CANDIDATE SURVEYS
 | LName| FName | Email | Survey Link | | LName| FName | Email | Survey Link |
