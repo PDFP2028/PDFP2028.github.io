@@ -11,3 +11,4 @@
 * [Spiritual Theology](Spiritual_Theology/index.md)
 * [New Testament Epistles](NT_Epistles/index.md)
 * [Acolyte Preparation Practicum](Acolyte_Prep/index.md)
+* [Valuable Links](Tools/index.md)
