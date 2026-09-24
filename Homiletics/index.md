@@ -18,6 +18,7 @@
 ## Sep. 23
 
 **Class Slides**
+[Steps for Liturgy of Word with a Deacon Involved. (From the GIRM) ](LitofWord.md)
 
 ## Additional Resources:
 [CES Preaching Dashboard Login](https://cpiadmin.azurewebsites.net/Login)
