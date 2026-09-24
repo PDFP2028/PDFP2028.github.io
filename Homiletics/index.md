@@ -7,7 +7,7 @@
 [Deacon Dan's Presentation](./images/C1D2.md)<br>
 
 **Readings**<br>
-[ Chapters I-IV from Fulfilled in Your Hearing](https://www.usccb.org](mailto:)/upload/fulfilled-in-your-hearing-homily-Sunday-assembly.pdf)<br>
+[Chapters I-IV from Fulfilled in Your Hearing](https://www.usccb.org](mailto:)/upload/fulfilled-in-your-hearing-homily-Sunday-assembly.pdf)<br>
 
 ## Sep. 9
 
@@ -18,7 +18,7 @@
 ## Sep. 23
 
 **Class Slides**<br>
-[Steps for Liturgy of Word with a Deacon Involved. (From the GIRM) ](./homiletics/LitofWord.md)<br>
+[Steps for Liturgy of Word with a Deacon Involved. (From the GIRM)](./homiletics/LitofWord.md)<br>
 
 ## Additional Resources:
 [CES Preaching Dashboard Login](https://cpiadmin.azurewebsites.net/Login)<br>
