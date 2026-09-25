@@ -43,7 +43,7 @@ D. Civil Law: Should Reflect Natural Law
 **Topic 2:** Virtue and Happiness, Intentions, Good Acts, and Human Freedom
 
 **Additional Materials**<br>
-*[Class 2 Transcript](./Theology/transcript_class_2.md)* by Paul Lewis
+*[Class 2 Transcript](transcript_class_2.md)* by Paul Lewis
 
 
 **Readings:**<br>
