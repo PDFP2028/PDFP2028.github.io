@@ -28,7 +28,6 @@
 ### LINKS TO CES CPI CANDIDATE SURVEYS
 | LName| FName | Email | Survey Link | | LName| FName | Email | Survey Link |
 | :--- | :--- | :--- | :--- | | :--- | :--- | :--- | :--- |
-
 | Adon | Julio | [jadon@diocs.org](mailto:jadon@diocs.org) | [![Julio's Link](Homiletics/QRCode_Mr._Julio_Adon.png ':size=100')](https://comppreaching.azurewebsites.net/?QR=1276) | | Lara | Hugo | [hlara@diocs.org](mailto:hlara@diocs.org) | [![Hugo's Link](Homiletics/QRCode_Mr._Hugo_Lara.png ':size=100')](https://comppreaching.azurewebsites.net/?QR=1278) |
 
 | Baase | Solomon | [sbaase@diocs.org](mailto:sbaase@diocs.org) | [![Sol's Link](Homiletics/QRCode_Mr._Solomon_Baase.png ':size=100')](https://comppreaching.azurewebsites.net/?QR=1279) | | Leap | Rich | [rleap@diocs.org](mailto:rleap@diocs.org) | [![Rich's Link](Homiletics/QRCode_Mr._Rich_Leap.png ':size=100')](https://comppreaching.azurewebsites.net/?QR=1286) |
