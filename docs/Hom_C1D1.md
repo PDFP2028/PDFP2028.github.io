@@ -1,19 +1,19 @@
 # Deacon CJ's Presentation
 
-![Slide 1](./Session1/Deck1/images_Page_01.png)
+![Slide 1](Homiletics/Session1/Deck1/images_Page_01.png)
 Welcome to your Deacon Formation homiletics course.
 The course will be team-taught by Deacon Dan Tomich, Deacon Kevin Barkocy and me.<p>
 We originally projected that you would take an introduction to Homiletics Course during your first year of Candidacy, followed by an Advanced Course this year.
 After much consideration, it made more sense to combine the courses and deliver them at one time. 
 The now combined course will be presented over three Wednesday evenings in accordance with our formation schedule.
-![Slide 2](./Session1/Deck1/images_Page_02.png)
+![Slide 2](Homiletics/Session1/Deck1/images_Page_02.png)
 Candidates should pay particular attention to the discussion related to preparing a homily and take-aways for consideration as they begin developing their individual styles and drafting their first practice homilies
-![Slide 3](./Session1/Deck1/images_Page_03.png)
+![Slide 3](Homiletics/Session1/Deck1/images_Page_03.png)
 Here’s a strategic look at the topics and materials we’ll cover in this course.<p>
 I draw your attention again to the readings shared with you on 22 August 2026.
 The lectionary readings for the Twenty-Sixth Sunday in Ordinary Time will inform your practice homilies you will present on Wednesday 23 September 2026.<p>
 We’ll touch more on these homilies in the coming slides.
-![Slide 4](./Session1/Deck1/images_Page_04.png)
+![Slide 4](Homiletics/Session1/Deck1/images_Page_04.png)
 **Practice homilies** will be **useful** to you **in establishing methods for: developing quality homilies** after receiving holy orders; honing skills for **effective and repeatable homily preparation**; and of, course **inspirational delivery.**<p>
 At the completion of this mini course – for the remainder of the Academic Year -- each Candidate will be assigned dates to deliver two practice homilies (one each in the Fall and one each in the Spring each).
 They will be presented as a part of standalone Lauds and Vespers liturgies or scheduled Holy Hours during which Lauds or Vespers are prayed. 
@@ -25,7 +25,7 @@ The preaching candidate will proclaim the Gospel, as a deacon would ordinarily d
 -- further offers opportunities for the Candidates to practice publicly proclaiming God’s Word.<p>
 Candidates will **deliver** their **homilies within a six-to-eight minute time limit**.
 Cohort **peers** and formation team members **will assess** the **quality** and delivery of each homilies **utilizing the Catholic Exchange Society’s app** reviewed on 22 August 2026.
-![Slide 5](./Session1/Deck1/images_Page_05.png)
+![Slide 5](Homiletics/Session1/Deck1/images_Page_05.png)
 At the completion of this course, and as we progress through the remainder of your time in formation, we will assess your individual needs with respect to homily preparation and delivery and offer additional tools and techniques.<p>
 As we move into your final year of formation, we will offer you the opportunities to develop your own homilies for Baptisms, Matrimony and Funerals, which should serve you well after receiving holy orders.<p>
 **As we begin, I’d like you to think about a question.**
@@ -56,9 +56,9 @@ It was as if you were speaking directly to me.
 We’ll discuss this more, but your homilies should always be well-researched, and their content should always be consistent with the truths of our faith. 
 **At times**, when you are led by the Spirit, you may find that your homilies have different purposes…sometimes **to encourage** and **inspire**…sometimes **to gently and lovingly correct or reprove**…sometimes to **edify**…sometimes **to convert** (when **directed at the faithful in the pews…conversion speaks to continued strengthening and growth in the faith…sometimes** it will be to **evangelize** – and when I say evangelize, I want to highlight that as you preach to the faithful during the sacred liturgy these will be people for the most part who already have a faith. 
 **Here we speak of the new evangelization often spoken of by Pope JP II** where **we reach out & call for Catholics to renew their own faith** and we **reach out to those who have deep Christian roots but are now facing a crisis of faith** due to their emersion in a secular culture…but always our **preaching is rooted in God’s Word…the teachings of Jesus Christ & consistent with the dogmatic and magisterial teachings of our Church.**
-![Slide 6](./Session1/Deck1/images_Page_06.png)
+![Slide 6](Homiletics/Session1/Deck1/images_Page_06.png)
 Any comments, questions or observations at this point?
-![Slide 7](./Session1/Deck1/images_Page_07.png)
+![Slide 7](Homiletics/Session1/Deck1/images_Page_07.png)
 I found that as my cohort initially began delivering practice homilies, some experienced angsts. 
 **I encourage you to lean into** this great opportunity and **not be afraid.** 
 We of course should **be in awe that the God of all creation allows us to participate in the work of His hands** through the vocation which you are discerning.<p>
@@ -70,7 +70,7 @@ I want to **reemphasize something Fr. Rajeev spoke** with us **about** last year
 Don’t just read it academically but **let it seep into your very being and begin to transform you from the inside out.** 
 **Read, “rightly divide”, pray and live God’s Word.**
 Doing so will be foundational to your preaching abilities.
-![Slide 8](./Session1/Deck1/images_Page_08.png)
+![Slide 8](Homiletics/Session1/Deck1/images_Page_08.png)
 The Deacon, in cooperation with the Episcopate and Presbyterate, have a substantial responsibility in strengthening the Church's mission, animating, encouraging, and equipping the lay faithful to embrace fully the dignity and mission received in Baptism and empowering them to become missionary disciples participating in Christ's threefold office as priest, prophet, and king.
 Remember, you will be ministers of the Gospel and you will help the faithful rediscover the Gospel as truly “Good News”…not as a law designed to crush the soul.
 This is an awesome grace and responsibility.<p>
@@ -88,15 +88,15 @@ It guides how the Church reads the Bible by balancing the human words of the aut
 Hermeneutics relies on Exegesis. From the Greek to “bring out”.
 It calls for the use of historical, literary, linguistic, and other scholarly method, but interprets Scripture within the living Tradition of the Church and in fidelity with the faith. As you continue your studies you will begin to acquire important resource materials (Bible dictionary, a theological dictionary of Scripture, trustworthy Biblical Commentaries) and/or learn from where they can be accessed.<p>
 It’s important to understand that Church doctrine is nourished by profound meditation upon the inspired Word, the exegesis of the Church fathers, conciliar documents, and the teaching of the Magisterium.<p>
-![Slide 9](./Session1/Deck1/images_Page_09.png)
+![Slide 9](Homiletics/Session1/Deck1/images_Page_09.png)
 The Catholic Encyclopedia describes homiletics as including the various forms of Christian preaching, such as the sermon, homily, and catechetical instruction, and identifies it as a branch of pastoral theology.
 In simple terms:
 **Homiletics** = the study and practice of preparing and delivering that preaching.
 Although the definition of homiletics is from the 1913 Catholic Encyclopedia, it expresses the established theological meaning of the term.
-![Slide 10](./Session1/Deck1/images_Page_10.png)
+![Slide 10](Homiletics/Session1/Deck1/images_Page_10.png)
 In simple terms:<p>
 **Homily** = the actual liturgical preaching delivered to the faithful (congregation) in the context of the Sacred Liturgy.
-![Slide 11](./Session1/Deck1/images_Page_11.png)
+![Slide 11](Homiletics/Session1/Deck1/images_Page_11.png)
 Catholic Teaching: a homily is a specific liturgical commentary tied directly to the day's Scripture, whereas a sermon, reflection, and teaching differ by their structure, setting, and who is allowed to give them.<p>
 _Homily_<p>
 **Definition:** A liturgical address given during Mass or a sacrament that explains the specific Scripture readings from the Lectionary of the day.<p>
@@ -115,7 +115,7 @@ _Teaching (Catechesis)_<p>
 **Definition:** Systematic instruction in the doctrines, morals, and traditions of the Catholic Church (Catechesis).<p>
 **Who can give it:** Priests, deacons, catechists, and lay teachers in formal settings like RCIA, faith formation classes, or Catholic schools.<p>
 **Key feature:** Its primary goal is education and passing on the factual and spiritual deposit of the faith rather than inspiring an active worship congregation during the liturgy.
-![Slide 12](./Session1/Deck1/images_Page_12.png)
+![Slide 12](Homiletics/Session1/Deck1/images_Page_12.png)
 Preaching should not be approached as one may do so as they prepare a presentation or briefing for a secular job.
 While there may be some similarities in terms of communicating information to listeners, the burden of responsibility and the potential to affect the lives of the faithful and their destination in eternity should be seriously considered every time you approach the Ambo.<p>
 I like to refer to preaching as a joyful burden…something about which we should be grateful that the Lord and our Bishop has entrusted us with.
@@ -125,13 +125,13 @@ We should never preach a homily to others that we haven’t first preached to ou
 St. Peter Chrysologos famously said, “Before preaching to others, I need the word to break me inside”.
 As we approach the date for delivery, continue in prayer in confirmation as to what the Holy Spirit is leading you to preach.
 And after preaching God’s word to His people, it is important that we live that which we preach.<p>
-![Slide 13](./Session1/Deck1/images_Page_13.png)
+![Slide 13](Homiletics/Session1/Deck1/images_Page_13.png)
 As we are called to preach to the faithful, we must recognize and achieve an understanding not only of the contemporary world in which they live and work, but also if they are to be properly inspired to fulfill their mission received in Baptism to become missionary disciples.
 We must therefore become students of the world – it’s social, political and economic forces shaping it.<p>
 We must also recognize that we are not God and not expected to know everything, but that said, we should lean not to our own understanding…seek God’s help and with dogged determination seek to always proclaim the Truth of Jesus Christ – despite our limitation.<p>
 Be encouraged concerning your limitations.
 The Church has a rich body of commentary and interpretative guidance through the Magisterium, the Church Fathers and Saints.<p>
-![Slide 14](./Session1/Deck1/images_Page_14.png)
+![Slide 14](Homiletics/Session1/Deck1/images_Page_14.png)
 Pope John Paul II called for a new evangelization as the Church approached the millennium.
 He also stressed the importance of liturgical preaching as essential to that evangelization.
 “The Church is effectively and concretely at the service of the kingdom.
@@ -149,9 +149,9 @@ The faithful are hungry for Christ and His Word.
 When my pastor was asked frequently what He was going to preach about at Mass, his reply was always “Jesus.”
 That should be our ultimate preaching objective.
 To this end, the faithful need and want to hear about Him and in the process for you to do well!<p>
-![Slide 15](./Session1/Deck1/images_Page_15.png)
+![Slide 15](Homiletics/Session1/Deck1/images_Page_15.png)
 Pause and see if there are comments or questions about homilies or homiletics
-![Slide 16](./Session1/Deck1/images_Page_16.png)
+![Slide 16](Homiletics/Session1/Deck1/images_Page_16.png)
 Our Church has a rich tradition in producing amazing preachers…great men like Saint John Chrysostom (Died 407 AD), Saint Augustine (whose memorial we celebrate this Friday)(354-430 AD), Saint Peter Chrysologus (Died 450 AD), and Saint Bernard of Clairvaux (1090-1153 AD) and Saint John Vianney (1786-1859 AD).
 And as Deacons go, we have standouts as well: Saint Stephen, St. Philip the Evangelist, St. Vincent of Zaragosa (Died 304 AD), St. Ephrem the Syrian (Died 373 AD) and while there is debate about his ordination to the diaconate, deacons claim St. Francis of Assisi (1181-1226 AD) – a widely respected preacher of the Gospel through word and deed.<p>
 Homilies by some of these great preachers remain extant and are worth reading.
@@ -168,7 +168,7 @@ Nor should you seek to be a carbon copy of your favorite preacher.<p>
 I personally like current day true illustrative stories or stories from the lives of saints that tie closely into the scriptures…In so doing, the people can see themselves in those spoken of and help interpret the meaning of the text.
 But that might not work for you.
 You have to figure out how God is choosing to best utilize you.<p>
-![Slide 17](./Session1/Deck1/images_Page_17.png)
+![Slide 17](Homiletics/Session1/Deck1/images_Page_17.png)
 Saint Augustine began writing his great work De doctrina Christiana (On Christian Doctrine) sometime around 396 AD. He completed it nearly 30 years later in 426 AD.
 Book IV of the work was dedicated to the Christian Orator.
 It is rich with guidance concerning preaching and teaching the faith.
@@ -183,7 +183,7 @@ Then the period which is subjoined is completed in three clauses, of which the f
 But these and other matters of the same kind are taught in the art of elocution.
 As then I do not affirm that the apostle was guided by the rules of eloquence, so I do not deny that his wisdom naturally produced, and was accompanied by, eloquence.<p>
 Diacope: The rhetorical and literary term for repeating a word or phrase with one or more intervening words breaking it up is **diacope**<p>
-![Slide 18](./Session1/Deck1/images_Page_18.png)
+![Slide 18](Homiletics/Session1/Deck1/images_Page_18.png)
 The phrase "rhetoric is to the mind what a kidnapper is to the body" is a conceptual paraphrase of the ancient Greek sophist Gorgias's views on persuasion, rather than a direct, verbatim quote from his surviving works.<p>
 Gorgias was Sophist -- Gorgias's View: He viewed this captive power of rhetoric as an awe-inspiring, almost magical force that could alter emotions and sway crowds<p>
 But perhaps someone is thinking that I have selected the Apostle Paul because he is our great orator.
@@ -204,7 +204,7 @@ The Danger of Eloquence not Rooted in Truth: Gorgias's View: rhetoric is to the 
 He viewed this captive power of rhetoric as an awe-inspiring, almost magical force that could alter emotions and sway crowds.
 As preachers, you have a powerful responsibility to speak that which is true.<p>
 Pray Before Preaching: he will succeed more by piety in prayer than by gifts of oratory; and so he ought to pray for himself, and for those he is about to address, before he attempts to speak.<p>
-![Slide 19](./Session1/Deck1/images_Page_20.png)
+![Slide 19](Homiletics/Session1/Deck1/images_Page_20.png)
 Endeavour with all diligence not to allow your living to contradict your preaching.
 Remember, we are all called to be Saints. Just because you are a deacon….one of the Church’s clergy doesn’t mean that somehow you’ve arrived…to the contrary, you must redouble your efforts.
 Make every effort to respond to the Gospel Call – “Be perfect as your Heavenly Father is perfect.”
@@ -216,9 +216,9 @@ Sometimes as you prepare your homilies….actually almost always with me…I fin
 Preach to yourself, but more importantly, respond.
 If you don’t, you will find that the man who falls into hypocrisy will struggle greatly to even recover his earlier state.
 As St. Thérèse of Lisieux discovered, we can’t achieve such perfection on our own….we need the assistance of God as He elevates us to knew heights in holiness…our job is to cooperate with that grace.
-![Slide 20](./Session1/Deck1/images_Page_19.png)
+![Slide 20](Homiletics/Session1/Deck1/images_Page_19.png)
 
-![Slide 21](./Session1/Deck1/images_Page_21.png)
+![Slide 21](Homiletics/Session1/Deck1/images_Page_21.png)
 The clergy have been given the solemn responsibility to communicate the mysteries of our faith to the people of God in a way that speaks to their carrying forward the Light of Christ in their daily lives – to a world in desperate need of knowing Him.<p>
 We have been made for a specific purpose….not in the sense of fate, but rather in terms of a vocation. Consider 3:<p>
     1. Telos: God desires that we be happy with Him in eternity<p>
@@ -227,16 +227,16 @@ We have been made for a specific purpose….not in the sense of fate, but rather
 Pope John Paul II said that it is man’s journey of discovery to learn his purpose in Christ.
 For the Deacon, this purpose is integrally linked to their interaction with and service of the faithful to help them realize their vocation or purpose in life.
 Your preaching should reflect that.
-![Slide 22](./Session1/Deck1/images_Page_22.png)
+![Slide 22](Homiletics/Session1/Deck1/images_Page_22.png)
 It is with great humility and thanksgiving that we follow in the line of many great deacons for our Church.
 We should not soon forget this.
-![Slide 23](./Session1/Deck1/images_Page_23.png)
+![Slide 23](Homiletics/Session1/Deck1/images_Page_23.png)
 The homily is "part of the liturgical action", and is meant to foster a deeper understanding of the word of God, so that it can bear fruit in the lives of the faithful.
 Hence ordained ministers must "prepare the homily carefully, based on an adequate knowledge of Sacred Scripture"<p>
 (Sacramentum Caritatis)
-![Slide 24](./Session1/Deck1/images_Page_24.png)
+![Slide 24](Homiletics/Session1/Deck1/images_Page_24.png)
 These are points we’ve put together for you to consider as your work to prepare future homilies and develop your preaching style.
-![Slide 25](./Session1/Deck1/images_Page_25.png)
+![Slide 25](Homiletics/Session1/Deck1/images_Page_25.png)
 Avoid Raw Politics: Homily is not a speech or lecture.
 No indorsement, campaigning, direction on voting or personal political views.
 Okay to preach on fundamental moral principles (e.g., dignity of every human person).
@@ -244,7 +244,7 @@ The Church’s social principles are not themselves political ideology or party 
 People will tell you what a great homily you preached. How should you respond?<p>
 Bishop Golka – “what did you like about it?”<p>
 Fr. Rajeev: Hold out hands and offer praise up to God. “To God be the Glory” or “God is Good”<p>
-![Slide 26](./Session1/Deck1/images_Page_26.png)
+![Slide 26](Homiletics/Session1/Deck1/images_Page_26.png)
 
 
 
