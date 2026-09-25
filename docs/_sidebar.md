@@ -1,7 +1,7 @@
 <!-- _sidebar.md -->
 
 * [Home](README.md)
-* [Pastoral Care Class](/Pastoral_Care/index.md)
+* [Pastoral Care Class](Pastoral_Care.md)
 * [Philosophy](/Philosophy/index.md)
 * [Moral Theology](/moral_theo/index.md)
 * [Homiletics](/Homiletics/index.md)
