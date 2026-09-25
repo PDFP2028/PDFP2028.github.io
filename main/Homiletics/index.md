@@ -3,8 +3,8 @@
 ## Aug. 26
 
 **Class Slides**<br>
-[Deacon CJ's Presentation](./images/C1D1)<br>
-[Deacon Dan's Presentation](./images/C1D2)<br>
+[Deacon CJ's Presentation](/images/C1D1)<br>
+[Deacon Dan's Presentation](/images/C1D2)<br>
 
 **Readings**<br>
 [Chapters I-IV from Fulfilled in Your Hearing](https://www.usccb.org](mailto:)/upload/fulfilled-in-your-hearing-homily-Sunday-assembly.pdf)<br>
@@ -12,8 +12,8 @@
 ## Sep. 9
 
 **Class Slides**<br>
-[Deacon CJ's Presentation](./images/C2D1)<br>
-[Deacon Dan's Presentation](./images/C2D2)<br>
+[Deacon CJ's Presentation](/images/C2D1)<br>
+[Deacon Dan's Presentation](/images/C2D2)<br>
 
 ## Sep. 23
 

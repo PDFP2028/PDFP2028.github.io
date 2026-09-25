@@ -1,0 +1,69 @@
+Source Page,Tested Link,Type,Status,HTTP Code / Error
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/images/C2D1,Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/images/QR_Code/QRCode_Mr._Paul_Lewis.png ':size=100',Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,https://cpiadmin.azurewebsites.net/Home/DisplayPdf,External,Good,200
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/LitofWord,Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/images/QR_Code/QRCode_Mr._Hector_Cardenas.png ':size=100',Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/images/QR_Code/QRCode_Mr._Richard_Pavlik.png ':size=100',Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/images/QR_Code/QRCode_Mr._Dan_Prochaska.png ':size=100',Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/images/QR_Code/QRCode_Mr._Julio_Adon.png ':size=100',Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/images/QR_Code/QRCode_Mr._Thomas_Schott.png ':size=100',Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/images/QR_Code/QRCode_Mr._Mario_Gutierrez.png ':size=100',Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/images/C1D1,Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/Training_Script,Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,https://www.usccb.org(mailto:,External,Bad,"Connection Failure: HTTPSConnectionPool(host='www.usccb.org(mailto', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001D0FCC4A690>: Failed to resolve 'www.usccb.org(mailto' ([Errno 11001] getaddrinfo failed)""))"
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/images/QR_Code/QRCode_Mr._Rich_Leap.png ':size=100',Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/images/C1D2,Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/images/QR_Code/QRCode_Mr._Hugo_Lara.png ':size=100',Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/images/QR_Code/QRCode_Mr._Solomon_Baase.png ':size=100',Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/images/QR_Code/QRCode_Mr._Hardy_Hill.png ':size=100',Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,https://cpiadmin.azurewebsites.net/Login,External,Good,200
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/images/C2D2,Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/images/QR_Code/QRCode_Mr._Craig_Jasper.png ':size=100',Internal,Bad,404
+http://localhost:8000/#/Homiletics/index,http://localhost:8000/Homiletics/images/QR_Code/QRCode_Mr._Jeff_Bodwell.png ':size=100',Internal,Bad,404
+Sidebar Navigation,http://localhost:8000/#/Pastoral_Care/index 'Pastoral Care Syllabus',Internal,Bad,HTTP 404
+http://localhost:8000/#/Philosophy/index,https://www.youtube.com/watch?v=LhbbRMcoZoo&authuser=0,External,Good,200
+http://localhost:8000/#/Philosophy/index,https://a.co/d/0hK4XZZA,External,Bad,404
+http://localhost:8000/#/Philosophy/index,https://youtu.be/1HdfQmBTYFk?si=Oqjdd0yqYVqyM-Vg,External,Good,200
+http://localhost:8000/#/Philosophy/index,https://youtu.be/68dvKsuVsNo?si=ZvV0VrIGlF9zRhZC,External,Good,200
+http://localhost:8000/#/Philosophy/index,https://www.youtube.com/watch?v=TwTdYRH74c8&authuser=0,External,Good,200
+http://localhost:8000/#/Philosophy/index,https://www.newadvent.org/summa/4075.htm,External,Good,200
+http://localhost:8000/#/Philosophy/index,https://a.co/d/07EeUQqE,External,Bad,404
+http://localhost:8000/#/Philosophy/index,https://www.youtube.com/watch?v=LhbbRMcoZoo&list=PLPCGA67J8M2JbqitOY3Ez4yT0x-d8ip0W&index=11,External,Good,200
+http://localhost:8000/#/Philosophy/index,https://www.youtube.com/playlist?list=PL9GwT4_YRZdBf9nIUHs0zjrnUVl-KBNSM,External,Good,200
+http://localhost:8000/#/Philosophy/index,https://www.youtube.com/watch?v=TwTdYRH74c8&list=PLPCGA67J8M2JbqitOY3Ez4yT0x-d8ip0W&index=5,External,Good,200
+http://localhost:8000/#/Philosophy/index,https://www.youtube.com/playlist?list=PL_kd4Kgq4tP8G-zdbspchmuv8zjCXtjWw,External,Good,200
+http://localhost:8000/#/Philosophy/index,https://en.wikipedia.org/wiki/Milky_Way_in_mythology,External,Good,200
+http://localhost:8000/#/README,http://localhost:8000/Spiritual_moral_theo/index.md,Internal,Bad,404
+http://localhost:8000/#/README,http://localhost:8000/moral_theo/index,Internal,Bad,404
+http://localhost:8000/#/README,http://localhost:8000/Crit_Pastoral_Issues/index.md,Internal,Good,200
+http://localhost:8000/#/README,http://localhost:8000/Crit_Pastoral_Issues/index,Internal,Bad,404
+http://localhost:8000/#/README,http://localhost:8000/Canon_Law/index,Internal,Bad,404
+http://localhost:8000/#/README,http://localhost:8000/Homiletics/index,Internal,Bad,404
+http://localhost:8000/#/README,http://localhost:8000/Acolyte_Prep,Internal,Good,200
+http://localhost:8000/#/README,http://localhost:8000/Pastoral_Care/index,Internal,Bad,404
+http://localhost:8000/#/README,http://localhost:8000/Spiritual_moral_theo/index,Internal,Bad,404
+http://localhost:8000/#/README,http://localhost:8000/Philosophy/index,Internal,Bad,404
+http://localhost:8000/#/README,http://localhost:8000/NT_Epistles/index,Internal,Bad,404
+http://localhost:8000/#/README,http://localhost:8000/Human_Form/index,Internal,Bad,404
+http://localhost:8000/#/README,http://localhost:8000/NT_Epistles/index.md,Internal,Good,200
+http://localhost:8000/#/Tools/index,https://www.augustineinstitute.org/,External,Good,200
+http://localhost:8000/#/Tools/index,https://www.newadvent.org/,External,Good,200
+http://localhost:8000/#/Tools/index,https://adoremus.org/,External,Good,200
+http://localhost:8000/#/Tools/index,https://www.osv.com/,External,Bad,403
+http://localhost:8000/#/Tools/index,https://bibleproject.com/,External,Good,200
+http://localhost:8000/#/Tools/index,https://www.usccb.org/,External,Good,200
+http://localhost:8000/#/Tools/index,https://www.vaticannews.va/en.html,External,Good,200
+http://localhost:8000/#/Tools/index,https://www.ibreviary.com/m2/breviario.php,External,Good,200
+http://localhost:8000/#/Tools/index,https://cruxnow.com,External,Good,200
+http://localhost:8000/#/Tools/index,https://www.pillarcatholic.com/,External,Good,200
+http://localhost:8000/#/Tools/index,https://ascensionpress.com/,External,Good,200
+http://localhost:8000/#/Tools/index,https://cpiadmin.azurewebsites.net/,External,Good,200
+http://localhost:8000/#/Tools/index,https://www.magisterium.com/,External,Good,200
+http://localhost:8000/#/Tools/index,https://www.ewtnnews.com/,External,Good,200
+http://localhost:8000/#/Tools/index,https://formed.org/,External,Good,200
+http://localhost:8000/#/moral_theo/index,https://www.amazon.com/dp/1587432234?lv=shuf&channelId=500&plpRedirect=mhFallback,External,Good,200
+http://localhost:8000/#/moral_theo/index,https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html,External,Good,200
+http://localhost:8000/#/moral_theo/index,https://www.earlychristianwritings.com/text/didache-roberts.html,External,Good,200
+http://localhost:8000/#/moral_theo/index,http://localhost:8000/moral_theo/Theology/transcript_class_2.md,Internal,Bad,404
+http://localhost:8000/#/moral_theo/index,https://www.amazon.com/dp/1587315157?lv=shuf&channelId=500&plpRedirect=mhFallback,External,Good,200
