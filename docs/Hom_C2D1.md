@@ -1,6 +1,6 @@
 # Deacon Kevin's Presentation
 
-![Slide 1](./Session2/Deck1/images_Page_01.png)
+![Slide 1](Homiletics/Session2/Deck1/images_Page_01.png)
 ![Slide 2](./Session2/Deck1/images_Page_02.png)
 ![Slide 3](./Session2/Deck1/images_Page_03.png)
 ![Slide 4](./Session2/Deck1/images_Page_04.png)
