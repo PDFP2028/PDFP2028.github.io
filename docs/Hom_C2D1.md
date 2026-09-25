@@ -4,7 +4,6 @@
 ![Slide 2](Homiletics/Session2/Deck1/images_Page_02.png)
 ![Slide 3](Homiletics/Session2/Deck1/images_Page_03.png)
 ![Slide 4](Homiletics/Session2/Deck1/images_Page_04.png)
-![Slide 5](Homiletics/Session2/Deck1/images_Page_05.png)
 ![Slide 6](Homiletics/Session2/Deck1/images_Page_06.png)
 ![Slide 7](Homiletics/Session2/Deck1/images_Page_07.png)
 ![Slide 8](Homiletics/Session2/Deck1/images_Page_08.png)
