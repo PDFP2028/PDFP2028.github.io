@@ -12,7 +12,7 @@ your congregation.
 
 Let me explain how everything works.
 
-![](images/image1.png)
+![](Homiletics/image1.png)
 
 When congregants scan the QR code, they'll be taken directly to the survey.
 The QR code is connected to the presentation you've set up in the Admin
@@ -88,7 +88,7 @@ Once you've logged in, you'll arrive at the main dashboard, which is divided int
 
 ## Top Section: Survey Results
 
-![](images/image2.png)
+![](Homiletics/image2.png)
 
 At the top, you'll see charts displaying survey responses collected
 from your congregation.
@@ -107,7 +107,7 @@ respondents selected \"Clear Theme.\"
 
 **Middle Section: Open-Ended Feedback**
 
-![](images/image2.png)
+![](Homiletics/image2.png)
 
 The middle section contains responses to the two open-ended questions:
 
@@ -126,7 +126,7 @@ your congregation.
 
 **Bottom Section: Presentations**
 
-![](images/image3.png)
+![](Homiletics/image3.png)
 
 The bottom section displays all presentations you've created.
 
@@ -135,12 +135,12 @@ another one and see how the process works.
 
 **Adding a Presentation**
 
-![](images/image4.png)
+![](Homiletics/image4.png)
 
 To create a new presentation, click the **plus (+)** icon in the
 upper-right corner.
 
-![](images/image5.png)
+![](Homiletics/image5.png)
 
 **Training Tip:** During this
 demonstration, it's often helpful to use the theme or topic for your
@@ -159,7 +159,7 @@ receive later.
 
 **Editing and Deleting Presentations**
 
-![](images/image6.png)
+![](Homiletics/image6.png)
 
 You can also edit existing presentations.
 
